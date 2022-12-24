@@ -23,7 +23,7 @@
 
   "note" : "IRCBAN",
   "is_active_ircban" : true,
-  "top_banner_ircban" : false,
+  "top_banner_ircban" : true,
   "time_interval_ircban" : true,
   "time_after_load_ircban" : 700,
   "refresh_ircban" : 90,
@@ -37,7 +37,7 @@
   "pe1_una" : 360,
   "pe2_una" : 370,
   "status_una" : true,
-  "testMode_una" : true,
+  "testMode_una" : false,
   
   "note" : "UNITYBAN",
   "is_active_unaban" : true,
